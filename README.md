@@ -1,10 +1,8 @@
 # ITP 365 HW03 - Fall 2021 #
 
 ## Student information... ##
-Name: Tommy Trojan
+Name: Brian Xu
 
-Email: ttrojan@usc.edu
-
-Platform: [PC/MAC]
+Platform: Mac
 
 ### Notes ###
